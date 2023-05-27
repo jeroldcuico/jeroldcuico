@@ -19,24 +19,24 @@
 
 ### LANGUAGES
 
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
-![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/loverold16)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/loverold16)
+[![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/loverold16)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/loverold16)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/loverold16)
 
 ### TECHNOLOGIES & FRAMEWORKS
-![REACT](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![FIREBASE](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
-![TAILWIND](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![LARAVEL](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)
+[![REACT](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/loverold16)
+[![FIREBASE](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/loverold16)
+[![TAILWIND](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind)](https://github.com/loverold16)
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/loverold16)
+[![LARAVEL](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)](https://github.com/loverold16)
 
 ### OS
 
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/loverold16)
 
 ### OTHERS
 
-![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GITHUB](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+[![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/loverold16)
+[![GITHUB](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/loverold16)
