@@ -20,17 +20,21 @@
 ### LANGUAGES
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/loverold16)
+[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)](https://github.com/loverold16)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/loverold16)
 [![BASH](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/loverold16)
 
-### TECHNOLOGIES & FRAMEWORKS
+### SKILLS, FRAMEWORKS AND RUN-TIME ENVIRONMENTS
 [![REACT](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/loverold16)
 [![FIREBASE](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/loverold16)
 [![TAILWIND](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind)](https://github.com/loverold16)
+[![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/loverold16)
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/loverold16)
 [![LARAVEL](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)](https://github.com/loverold16)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/loverold16)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/loverold16)
+[![NODEJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/loverold16)
+[![NEXTJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=NEXT.js&logoColor=white)](https://github.com/loverold16)
 
 ### OS
 
